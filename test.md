@@ -1,3 +1,3 @@
 ## Test
 
-![Bild](../images/Anonymous-gis-computer.png)
+![Bild](./images/Anonymous-gis-computer.png)
